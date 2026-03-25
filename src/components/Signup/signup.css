@@ -1,0 +1,11 @@
+.gender {
+    display: flex;
+    flex-direction: row;
+    /* align-items: ; */
+    justify-content: center;
+}
+
+.text-input.gender-field {
+    flex-direction: row;
+    width: fit-content;
+}
